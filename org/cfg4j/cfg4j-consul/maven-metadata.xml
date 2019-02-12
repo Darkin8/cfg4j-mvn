@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.cfg4j</groupId>
+  <artifactId>cfg4j-consul</artifactId>
+  <versioning>
+    <release>5.0.0-custom</release>
+    <versions>
+      <version>5.0.0-custom</version>
+    </versions>
+    <lastUpdated>20190212135233</lastUpdated>
+  </versioning>
+</metadata>
